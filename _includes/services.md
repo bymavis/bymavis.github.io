@@ -6,7 +6,7 @@
 
 <ul style="margin:0 0 5px;">
   <li><a href="https://eccv2024.ecva.net/"><autocolor>European Conference on Computer Vision (ECCV) 2024</autocolor></a></li>
-  <li><a href="http://cvpr.thecvf.com/"><autocolor>the Thirty-seventh Annual Conference on Neural Information Processing Systems (NeurIPS) 2023 on Robustness of Few-shot and Zero-shot Learning in Large Foundation Models</autocolor></a></li>
+  <li><a href="http://cvpr.thecvf.com/"><autocolor>The Thirty-seventh Annual Conference on Neural Information Processing Systems (NeurIPS) 2023 on Robustness of Few-shot and Zero-shot Learning in Large Foundation Models</autocolor></a></li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Conference Reviewers</h4>
