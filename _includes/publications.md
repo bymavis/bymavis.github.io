@@ -13,10 +13,10 @@
       <div class="title"><a href="https://arxiv.org/pdf/2402.01369.pdf">Cheating Suffix: Targeted Attack to Text-To-Image Diffusion Models with Multi-Modal Priors</a></div>
       <div class="author">Dingcheng Yang, <strong>Yang Bai</strong>#, Xiaojun Jia, Yang Liu, Xiaochun Cao, Wenjian Yu#<br> (# Corresponding authors)</div>
   </div>
-      <div class="links">
-        <a href="https://arxiv.org/pdf/2402.01369.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-        <a href="https://github.com/ydc123/MMP-Attack" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-      </div>
+    <div class="links">
+      <a href="https://arxiv.org/pdf/2402.01369.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://github.com/ydc123/MMP-Attack" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+    </div>
 </div>
 </li>
 
@@ -146,6 +146,52 @@ KuofengGao/ASD" class="btn btn-sm z-depth-0" role="button" target="_blank" style
 </li>
 
 <br>
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+      <div class="title"><a href="https://link.springer.com/chapter/10.1007/978-981-19-7554-7_4">The Robust and Harmless Model Watermarking</a></div>
+      <div class="author">Yiming Li, Linghui Zhu, <strong>Yang Bai</strong>, Yong Jiang, Shu-Tao Xia<br>  (* Equal contributions) </div>   
+      <div class="periodical"><em>Digital Watermarking for Machine Learning Model: Techniques, Protocols and Applications</em></div>
+      </div>
+    <div class="links">
+      <a href="https://link.springer.com/chapter/10.1007/978-981-19-7554-7_4" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+    </div>
+  </div>
+</li>
+
+<br>
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+      <div class="title"><a href="https://arxiv.org/pdf/2207.08178.pdf">Watermark vaccine: Adversarial attacks to prevent watermark removal</a></div>
+      <div class="author">Xinwei Liu, Jian Liu, <strong>Yang Bai</strong>, Jindong Gu, Tao Chen, Xiaojun Jia, Xiaochun Cao<br>  (* Equal contributions) </div>   
+      <div class="periodical"><em>ECCV 2022</em></div>
+      </div>
+    <div class="links">
+      <a href="https://arxiv.org/pdf/2207.08178.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://github.com/thinwayliu/Watermark-Vaccine" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+    </div>
+  </div>
+</li>
+
+<br>
+<li>
+<div class="pub-row">
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+      <div class="title"><a href="https://arxiv.org/pdf/2208.02820.pdf">MOVE: Effective and Harmless Ownership Verification via Embedded External Features</a></div>
+      <div class="author">Yiming Li, Linghui Zhu, Xiaojun Jia, <strong>Yang Bai</strong>, Yong Jiang, Shu-Tao Xia, Xiaochun Cao<br>  (* Equal contributions) </div>   
+      </div>
+    <div class="links">
+      <a href="https://arxiv.org/pdf/2208.02820.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://github.com/THUYimingLi/MOVE" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+    </div>
+  </div>
+</li>
+
+<br>
+
 
 </ol>
 </div>
