@@ -151,7 +151,7 @@ KuofengGao/ASD" class="btn btn-sm z-depth-0" role="button" target="_blank" style
 <div class="pub-row">
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://link.springer.com/chapter/10.1007/978-981-19-7554-7_4">The Robust and Harmless Model Watermarking</a></div>
-      <div class="author">Yiming Li, Linghui Zhu, <strong>Yang Bai</strong>, Yong Jiang, Shu-Tao Xia<br>  (* Equal contributions) </div>   
+      <div class="author">Yiming Li, Linghui Zhu, <strong>Yang Bai</strong>, Yong Jiang, Shu-Tao Xia<br></div>   
       <div class="periodical"><em>Digital Watermarking for Machine Learning Model: Techniques, Protocols and Applications</em></div>
       </div>
     <div class="links">
@@ -166,7 +166,7 @@ KuofengGao/ASD" class="btn btn-sm z-depth-0" role="button" target="_blank" style
 <div class="pub-row">
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://arxiv.org/pdf/2207.08178.pdf">Watermark vaccine: Adversarial attacks to prevent watermark removal</a></div>
-      <div class="author">Xinwei Liu, Jian Liu, <strong>Yang Bai</strong>, Jindong Gu, Tao Chen, Xiaojun Jia, Xiaochun Cao<br>  (* Equal contributions) </div>   
+      <div class="author">Xinwei Liu, Jian Liu, <strong>Yang Bai</strong>, Jindong Gu, Tao Chen, Xiaojun Jia#, Xiaochun Cao#<br>  (# Corresponding authors) </div>   
       <div class="periodical"><em>ECCV 2022</em></div>
       </div>
     <div class="links">
@@ -177,11 +177,12 @@ KuofengGao/ASD" class="btn btn-sm z-depth-0" role="button" target="_blank" style
 </li>
 
 <br>
+
 <li>
 <div class="pub-row">
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://arxiv.org/pdf/2208.02820.pdf">MOVE: Effective and Harmless Ownership Verification via Embedded External Features</a></div>
-      <div class="author">Yiming Li, Linghui Zhu, Xiaojun Jia, <strong>Yang Bai</strong>, Yong Jiang, Shu-Tao Xia, Xiaochun Cao<br>  (* Equal contributions) </div>   
+      <div class="author">Yiming Li, Linghui Zhu, Xiaojun Jia, <strong>Yang Bai</strong>, Yong Jiang, Shu-Tao Xia, Xiaochun Cao<br>  </div>   
       </div>
     <div class="links">
       <a href="https://arxiv.org/pdf/2208.02820.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
@@ -192,6 +193,125 @@ KuofengGao/ASD" class="btn btn-sm z-depth-0" role="button" target="_blank" style
 
 <br>
 
+<li>
+<div class="pub-row">
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+      <div class="title"><a href="https://artofrobust.github.io/short_paper/15.pdf">Test-time Adaptation of Residual Blocks against Poisoning and Backdoor Attacks</a></div>
+      <div class="author">Arnav Gudibande, Xinyun Chen, <strong>Yang Bai</strong>, Jason Xiong, Dawn Song<br> </div>   
+      <div class="periodical"><em>CVPR 2022 Workshop</em></div>
+      </div>
+    <div class="links">
+      <a href="https://artofrobust.github.io/short_paper/15.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+    </div>
+  </div>
+</li>
+
+<br>
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+      <div class="title"><a href="https://ieeexplore.ieee.org/abstract/document/9533589/">D2Defend: Dual-Domain based Defense against Adversarial Examples</a></div>
+      <div class="author">Xin Yan, Yanjie Li, Tao Dai, <strong>Yang Bai</strong>, Shu-Tao Xia<br> </div>   
+      <div class="periodical"><em>IJCNN 2021</em></div>
+      </div>
+    <div class="links">
+      <a href="https://ieeexplore.ieee.org/abstract/document/9533589/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+    </div>
+  </div>
+</li>
+
+<br>
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+      <div class="title"><a href="https://proceedings.neurips.cc/paper_files/paper/2021/file/f770b62bc8f42a0b66751fe636fc6eb0-Paper.pdf">Clustering Effect of (Linearized) Adversarial Robust Models</a></div>
+      <div class="author"><strong>Yang Bai</strong>, Xin Yan, Yong Jiang, Shu-Tao Xia, Yisen Wang<br> </div>   
+      <div class="periodical"><em>NeurIPS 2021</em></div>
+      </div>
+    <div class="links">
+      <a href="https://proceedings.neurips.cc/paper_files/paper/2021/file/f770b62bc8f42a0b66751fe636fc6eb0-Paper.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://github.com/bymavis/Adv_Weight_NeurIPS2021" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+    </div>
+  </div>
+</li>
+
+<br>
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+      <div class="title"><a href="https://arxiv.org/pdf/2103.08307.pdf">Improving Adversarial Robustness via Channel-wise Activation Suppressing</a></div>
+      <div class="author"><strong>Yang Bai</strong>*, Yuyuan Zeng*, Yong Jiang, Shu-Tao Xia, Xingjun Ma, Yisen Wang<br> (* Equal contributions) </div>   
+      <div class="periodical"><em>ICLR 2021</em></div>
+      </div>
+    <div class="links">
+      <a href="https://arxiv.org/pdf/2103.08307.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://github.com/bymavis/CAS_ICLR2021" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+    </div>
+  </div>
+</li>
+
+<br>
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+      <div class="title"><a href="https://arxiv.org/pdf/2203.14315.pdf">Adaptive Frequency Learning in Two-branch Face Forgery Detection</a></div>
+      <div class="author">Neng Wang, <strong>Yang Bai</strong>, Kun Yu, Yong Jiang, Shu-tao Xia, Yan Wang<br> </div>   
+      </div>
+    <div class="links">
+      <a href="https://arxiv.org/pdf/2203.14315.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+    </div>
+  </div>
+</li>
+
+<br>
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+      <div class="title"><a href="https://arxiv.org/pdf/2009.11508.pdf">Improving Query Efficiency of Black-box Adversarial Attack</a></div>
+      <div class="author"><strong>Yang Bai</strong>*, Yuyuan Zeng*, Yong Jiang, Yisen Wang, Shu-Tao Xia, Weiwei Guo<br> (* Equal contributions) </div>   
+      <div class="periodical"><em>ECCV 2020</em></div>
+      </div>
+    <div class="links">
+      <a href="https://arxiv.org/pdf/2009.11508.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://github.com/Sandy-Zeng/NPAttack" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+    </div>
+  </div>
+</li>
+
+<br>
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+      <div class="title"><a href="https://ieeexplore.ieee.org/abstract/document/9053237">Self-adaptive Feature Fool</a></div>
+      <div class="author">Xinyi Liu, <strong>Yang Bai</strong>, Shu-Tao Xia, Yong Jiang<br> </div>   
+      <div class="periodical"><em>ICASSP 2020</em></div>
+      </div>
+    <div class="links">
+      <a href="https://ieeexplore.ieee.org/abstract/document/9053237" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+    </div>
+  </div>
+</li>
+
+<br>
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+      <div class="title"><a href="https://openaccess.thecvf.com/content_ICCV_2019/papers/Bai_Hilbert-Based_Generative_Defense_for_Adversarial_Examples_ICCV_2019_paper.pdf">Hilbert-based Generative Defense for Adversarial Examples</a></div>
+      <div class="author"><strong>Yang Bai</strong>*, Yan Feng*, Yisen Wang, Tao Dai, Shu-Tao Xia, Yong Jiang<br> (* Equal contributions) </div>   
+      <div class="periodical"><em>ICCV 2019</em></div>
+      </div>
+    <div class="links">
+      <a href="https://openaccess.thecvf.com/content_ICCV_2019/papers/Bai_Hilbert-Based_Generative_Defense_for_Adversarial_Examples_ICCV_2019_paper.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+    </div>
+  </div>
+</li>
 
 </ol>
 </div>
