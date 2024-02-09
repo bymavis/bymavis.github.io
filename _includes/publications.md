@@ -12,12 +12,12 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://arxiv.org/pdf/2402.01369.pdf">Cheating Suffix: Targeted Attack to Text-To-Image Diffusion Models with Multi-Modal Priors</a></div>
       <div class="author">Dingcheng Yang, <strong>Yang Bai</strong>#, Xiaojun Jia, Yang Liu, Xiaochun Cao, Wenjian Yu#<br> (# Corresponding authors)</div>
-      </div>
-    <div class="links">
+  </div>
+  <div class="links">
       <a href="https://arxiv.org/pdf/2402.01369.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/ydc123/MMP-Attack" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-    </div>
   </div>
+</div>
 </li>
 
 <br>
@@ -29,12 +29,12 @@
       <div class="title"><a href="https://arxiv.org/pdf/2401.11170.pdf">Inducing High Energy-Latency of Large Vision-Language Models with Verbose Images</a></div>
       <div class="author">Kuofeng Gao, <strong>Yang Bai</strong>, Jindong Gu, Shu-Tao Xia, Philip Torr, Zhifeng Li#, Wei Liu#<br> (# Corresponding authors) </div>
       <div class="periodical"><em>ICLR 2024</em></div>
-      </div>
-    <div class="links">
+  </div>
+  <div class="links">
       <a href="https://arxiv.org/pdf/2401.11170.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/KuofengGao/Verbose_Images" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-    </div>
   </div>
+</div>
 </li>
 
 <br>
