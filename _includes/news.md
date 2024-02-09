@@ -8,7 +8,7 @@
 <li><strong>[Sep. 2023]</strong> Our paper about <a href="https://link.springer.com/chapter/10.1007/978-3-031-43418-1_39">distributed training</a> is accepted to <a href="https://eccv2020.eu/">ECML KDD 2023</a>.</li>
 <li><strong>[Sep. 2023]</strong> Our paper about <a href="https://link.springer.com/chapter/10.1007/978-3-031-43418-1_38">model parallelism</a> is accepted to <a href="https://eccv2020.eu/">ECML KDD 2023</a>.</li>
 <li><strong>[Aug. 2023]</strong> I will serve as an Area Chair of <a href="https://cvpr.thecvf.com/">NeurIPS 2023 Workshop</a>.</li>
-<li><strong>[Feb. 2023]</strong> Our paper about <a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Gao_Backdoor_Defense_via_Adaptively_Splitting_Poisoned_Dataset_CVPR_2023_paper.pdf">data-efficient preprocessing</a> is accepted to <a href="http://cvpr2023.thecvf.com/">CVPR 2023</a>.</li>
+<li><strong>[Feb. 2023]</strong> Our paper about <a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Gao_Backdoor_Defense_via_Adaptively_Splitting_Poisoned_Dataset_CVPR_2023_paper.pdf">backdoor defense</a> is accepted to <a href="http://cvpr2023.thecvf.com/">CVPR 2023</a>.</li>
   
 <li> <a href="javascript:toggle_vis('newsmore')">Show more</a> </li>
 <div id="newsmore" style="display:none"> 
