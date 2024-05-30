@@ -14,6 +14,8 @@ My general research interest is **convex/non-convex optimization** and **robust 
 
 {% include_relative _includes/publications.md %}
 
+{% include_relative _includes/writings.md %}
+
 {% include_relative _includes/services.md %}
 
 {% include_relative _includes/contact.md %}
