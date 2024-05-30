@@ -14,7 +14,7 @@
 <ul style="margin:0 0 5px;">
   <li><a href="http://cvpr2023.thecvf.com/"><autocolor>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2022-2023</autocolor></a></li>
   <li><a href="https://eccv2022.ecva.net/"><autocolor>European Conference on Computer Vision (ECCV) 2022</autocolor></a></li>
-  <li><a href="https://neurips.cc/Conferences/2023"><autocolor>Annual Conference on Neural Information Processing Systems (NeurIPS) 2021-2023</autocolor></a></li>
+  <li><a href="https://neurips.cc/Conferences/2024"><autocolor>Annual Conference on Neural Information Processing Systems (NeurIPS) 2021-2024</autocolor></a></li>
   <li><a href="https://icml.cc/Conferences/2024"><autocolor>International Conference on Machine Learning (ICML) 2021-2024</autocolor></a></li>
   <li><a href="https://iclr.cc/Conferences/2024"><autocolor>International Conference on Learning Representations (ICLR) 2022-2024</autocolor></a></li>
   <li><a href="https://aaai.org/aaai-conference/"><autocolor>Association for the Advance of Artificial Intelligence (AAAI) 2019-2020</autocolor></a></li>
@@ -29,6 +29,7 @@
 
 <ul style="margin:0 0 20px;">
   <li><a href="https://cis.ieee.org/publications/t-neural-networks-and-learning-systems"><autocolor>IEEE Transactions on Neural Networks and Learning Systems (TNNLS)</autocolor></a></li>
+  <li><a href="[https://cis.ieee.org/publications/t-neural-networks-and-learning-systems](https://www.editorialmanager.com/neucom/default.aspx)"><autocolor>Neurocomputing</autocolor></a></li>
   <!--
   <li><a href="https://www.journals.elsevier.com/neural-networks"><autocolor>Neural Networks</autocolor></a></li>
   <li><a href="https://www.springer.com/journal/10994"><autocolor>Machine Learning</autocolor></a></li>
