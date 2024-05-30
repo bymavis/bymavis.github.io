@@ -7,6 +7,22 @@
 <ol class="bibliography">
 
 
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+      <div class="title"><a href="https://arxiv.org/pdf/2405.05990.pdf">Special Characters Attack: Toward Scalable Training Data Extraction From Large Language Models</a></div>
+      <div class="author"><strong>Yang Bai</strong>, Ge Pei, Jindong Gu, Yong Yang#, Xingjun Ma<br> (# Corresponding authors)</div>
+  </div>
+    <div class="links">
+      <a href="https://arxiv.org/pdf/2405.05990.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+    </div>
+</div>
+</li>
+
+<br>
+
+
 <li>
 <div class="pub-row">
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
